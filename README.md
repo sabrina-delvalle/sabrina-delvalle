@@ -1,5 +1,5 @@
 -  Hi, I’m @sabrina-delvalle
--  I’m interested in full stack development.
+-  Full stack development.
 -  HTML/CSS/JavaScript/React/Next.js/MongoDB/Node.js/Express/NestJS...
 - 💞️ still learning
 
